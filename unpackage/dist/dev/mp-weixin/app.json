@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index",
+    "pages/find/index",
+    "pages/article/detail",
+    "pages/article/subject",
+    "pages/article/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "百城记事",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
