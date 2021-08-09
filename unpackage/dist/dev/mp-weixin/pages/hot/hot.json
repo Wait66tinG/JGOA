@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "热榜",
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "jiangqie-loading": "/components/loading/loading",
+    "jiangqie-loadmore": "/components/loadmore/loadmore",
+    "jiangqie-nomore": "/components/nomore/nomore",
+    "jiangqie-no-data": "/components/nodata/nodata"
+  }
+}

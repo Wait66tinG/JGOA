@@ -41,7 +41,7 @@
   "compileType": "miniprogram",
   "libVersion": "",
   "appid": "touristappid",
-  "projectname": "博客模板（文章列表、详情，专题列表、详情、文章，发现等）",
+  "projectname": "新闻资讯博客模板（含后端）-酱茄Free小程序",
   "condition": {
     "search": {
       "list": []

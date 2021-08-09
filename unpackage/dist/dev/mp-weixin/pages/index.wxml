@@ -1,1 +1,0 @@
-<view class="container data-v-2a183b29"><view class="list data-v-2a183b29"><block wx:for="{{item}}" wx:for-item="i" wx:for-index="__i0__" wx:key="*this"><view class="data-v-2a183b29">{{''+i.title+"\n\t\t\t"+i.text+''}}</view></block></view></view>
